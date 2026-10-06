@@ -17,7 +17,7 @@ I develop machine learning solutions that turn real-world healthcare data into d
 |---|---|
 | [Clinical Note Classifier](https://github.com/oshinmiranda26/clinical-note-classifier) | Benchmarks TF-IDF with logistic regression against fine-tuned Bio_ClinicalBERT (LoRA-tuned LLM in progress) for clinical note classification, using controlled experiments, class-imbalance handling, and error analysis. |
 | [RDoC Clinical PTSD](https://github.com/oshinmiranda26/RDoC_Clinical_PTSD) | NLP workflow for identifying Research Domain Criteria in clinical notes of patients with PTSD; code accompanying a peer-reviewed research study. |
-| [NeuroRisk Clinical Risk Intelligence](https://github.com/oshinmiranda26/NeuroRisk-Clinical-Risk-Intelligence) | Retrieval-augmented generation over structured and unstructured mental health EHR data, with retrieval and faithfulness evaluation (in progress). |
+| [NeuroRisk Clinical Risk Intelligence](https://github.com/oshinmiranda26/NeuroRisk-Clinical-Risk-Intelligence) | Evaluated retrieval-augmented QA over synthetic mental health records: six retrievers benchmarked against ground truth, cited answers, and a [live demo](https://neurorisk-clinical.streamlit.app). |
 
 ## Technical Skills
 
