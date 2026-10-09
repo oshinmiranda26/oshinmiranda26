@@ -1,6 +1,6 @@
 # Oshin Miranda, PhD
 
-**AI Scientist, Healthcare** | Machine learning, clinical NLP, and real-world evidence
+**AI Scientist, Healthcare** | Machine learning, NLP, clinical AI, and real-world evidence 
 
 I develop machine learning solutions that turn real-world healthcare data into decision-ready insight. My work spans multimodal data, including electronic medical records, claims, and clinical text, with a focus on explainable models for risk prediction, treatment patterns, and healthcare disparities, particularly in mental health and high-risk populations.
 
